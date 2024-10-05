@@ -1,12 +1,6 @@
 {
   "tasks": [
     {
-      "id": 1,
-      "title": "Set up environment",
-      "description": "Install Node.js, npm, and git",
-      "completed": true
-    },
-    {
       "id": 2,
       "title": "Create a new project",
       "description": "Create a new project using the Express application generator",
@@ -86,8 +80,19 @@
     },
     {
       "id": 15,
-      "title": "Install jsonwebtoken",
-      "description": "Install jsonwebtoken",
+      "title": "ZZZ Task",
+      "description": "This is a test task",
+      "completed": "false"
+    },
+    {
+      "id": 16,
+      "title": "New Task",
+      "description": "New Task Description",
+      "completed": false
+    },
+    {
+      "id": 17,
+      "title": "New Task",
       "completed": false
     }
   ]
